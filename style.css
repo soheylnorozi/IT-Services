@@ -110,6 +110,28 @@ body {
     background-color: lightblue;
 }
 
+    .main-girid
+    {
+        display:  table;
+        width:100%;
+        background-color:#eee;
+        border:0px solid  #666666;
+        border-spacing:0px;/*cellspacing:poor IE support for  this*/
+       /* border-collapse:separate;*/
+    }
+    .divRow
+    {
+       display:table-row;
+       width:auto;
+    }
+
+   .divCell
+    {
+        float:right;/*fix for  buggy browsers*/
+        display:table-column;
+        width:50%;
+        background-color:#ccc;
+    }
 .button {
     background-color: #4CAF50;
     border: none;
