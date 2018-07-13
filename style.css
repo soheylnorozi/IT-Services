@@ -64,7 +64,7 @@ h1,h2,h3,h4,h5,h6,p,span,strong,footer,.memo,td,div,a {
 .title {
     direction: rtl;
     text-align: center;
-    color: red;
+    color: black;
     left: 0;
     top: 0;
     width: 100%;
@@ -78,7 +78,7 @@ h1,h2,h3,h4,h5,h6,p,span,strong,footer,.memo,td,div,a {
     background-color: black;
     background-color: hsla(9, 100%, 64%, 0.2);
     border: 5px;
-    color: red;
+    color: black;
     border-color: #ff6347;
     left: 0;
     top: 0;
@@ -91,7 +91,7 @@ h1,h2,h3,h4,h5,h6,p,span,strong,footer,.memo,td,div,a {
     background-color: black;
     background-color: hsla(9, 100%, 64%, 0.2);
     border: 5px;
-    color: red;
+    color: black;
     border-color: #ff6347;
     position: fixed;
     left: 0;
@@ -101,13 +101,13 @@ h1,h2,h3,h4,h5,h6,p,span,strong,footer,.memo,td,div,a {
 }
 
 h1 {
-    color: maroon;
+    color: black;
     margin-left: 40px;
 }
 
 body {
     /*background-image: url('./media/image/background.png');*/
-    background-color: lightblue;
+    /*background-color: lightblue;*?
 }
 
     .main-girid
@@ -130,7 +130,7 @@ body {
         float:right;/*fix for  buggy browsers*/
         display:table-column;
         width:50%;
-        background-color:#ccc;
+       /* background-color:#ccc;*/
     }
 .button {
     background-color: #4CAF50;
