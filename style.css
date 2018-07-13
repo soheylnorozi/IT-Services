@@ -85,6 +85,7 @@ h1,h2,h3,h4,h5,h6,p,span,strong,footer,.memo,td,div,a {
     width: 100%;
     position:sticky;
     margin-top: 1;
+    line-height: 1.9
 }
 
 .footer {
@@ -118,8 +119,9 @@ body {
         width:100%;
         background-color:#eee;
         border:0px solid  #666666;
-        border-spacing:0px;/*cellspacing:poor IE support for  this*/
-       /* border-collapse:separate;*/
+        border-spacing:0px;
+        /*cellspacing:poor IE support for  this*/
+        /* border-collapse:separate;*/
     }
     .divRow
     {
