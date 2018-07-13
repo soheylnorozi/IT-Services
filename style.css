@@ -83,6 +83,8 @@ h1,h2,h3,h4,h5,h6,p,span,strong,footer,.memo,td,div,a {
     left: 0;
     top: 0;
     width: 100%;
+    position:sticky;
+    margin-top: 1;
 }
 
 .footer {
@@ -123,6 +125,7 @@ body {
     {
        display:table-row;
        width:auto;
+       margin-bottom:
     }
 
    .divCell
@@ -144,4 +147,11 @@ body {
     margin: 5px 5px;
 }
 
+.top-logo{
+    width: auto;
+    height: auto;
+    padding-right:15;
+    padding-top: 15
+
+}
 </style >
