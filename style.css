@@ -1,0 +1,129 @@
+<style >
+/**************
+    Fonts
+***************/
+
+@font-face {
+    font-family: 'isans';
+    src: url('./media/fonts/isans/isans_600.eot');
+    src: url('./media/fonts/isans/isans_600.eot?#iefix') format('eot'),
+    url('./media/fonts/isans/isans_600.woff2') format('woff2'),
+    url('./media/fonts/isans/isans_600.woff') format('woff'),
+    url('./media/fonts/isans/isans_600.ttf') format('ttf');
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: 'isans';
+    src: url('./media/fonts/isans/isans_500.eot');
+    src: url('./media/fonts/isans/isans_500.eot?#iefix') format('eot'),
+    url('./media/fonts/isans/isans_500.woff2') format('woff2'),
+    url('./media/fonts/isans/isans_500.woff') format('woff'),
+    url('./media/fonts/isans/isans_500.ttf') format('ttf');
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'isans';
+    src: url('./media/fonts/isans/isans_400.eot');
+    src: url('./media/fonts/isans/isans_400.eot?#iefix') format('eot'),
+    url('./media/fonts/isans/isans_400.woff2') format('woff2'),
+    url('./media/fonts/isans/isans_400.woff') format('woff'),
+    url('./media/fonts/isans/isans_400.ttf') format('ttf');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'isans';
+    src: url('./media/fonts/isans/isans_300.eot');
+    src: url('./media/fonts/isans/isans_300.eot?#iefix') format('eot'),
+    url('./media/fonts/isans/isans_300.woff2') format('woff2'),
+    url('./media/fonts/isans/isans_300.woff') format('woff'),
+    url('./media/fonts/isans/isans_300.ttf') format('ttf');
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: 'isans';
+    src: url('./media/fonts/isans/isans_200.eot');
+    src: url('./media/fonts/isans/isans_200.eot?#iefix') format('eot'),
+    url('./media/fonts/isans/isans_200.woff2') format('woff2'),
+    url('./media/fonts/isans/isans_200.woff') format('woff'),
+    url('./media/fonts/isans/isans_200.ttf') format('ttf');
+    font-weight: 200;
+}
+
+h1,h2,h3,h4,h5,h6,p,span,strong,footer,.memo,td,div,a {
+    font-family: isans !important;
+}
+/**************
+    Fonts
+***************/
+/* Style the tab */
+
+.title {
+    direction: rtl;
+    text-align: center;
+    background-color: black;
+    background-color: hsla(9, 100%, 64%, 0.2);
+    border: 5px;
+    color: red;
+    border-color: #ff6347;
+    left: 0;
+    top: 0;
+    width: 100%;
+    font-size: 35px;
+    line-height: 1.6;
+}
+
+.memo {
+    direction: rtl;
+    text-align: center;
+    background-color: black;
+    background-color: hsla(9, 100%, 64%, 0.2);
+    border: 5px;
+    color: red;
+    border-color: #ff6347;
+    left: 0;
+    top: 0;
+    width: 100%;
+}
+
+.footer {
+    direction: rtl;
+    text-align: center;
+    background-color: black;
+    background-color: hsla(9, 100%, 64%, 0.2);
+    border: 5px;
+    color: red;
+    border-color: #ff6347;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+
+}
+
+h1 {
+    color: maroon;
+    margin-left: 40px;
+}
+
+body {
+    /*background-image: url('./media/image/background.png');*/
+    background-color: lightblue;
+}
+
+.button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 5px 5px;
+}
+
+</style >
