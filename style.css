@@ -137,6 +137,13 @@ body {
         width:50%;
        /* background-color:#ccc;*/
     }
+   .divCell-full
+    {
+        float:right;/*fix for  buggy browsers*/
+        display:table-column;
+        width:100%;
+       /* background-color:#ccc;*/
+    }
 .button {
     background-color: #4CAF50;
     border: none;
