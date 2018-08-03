@@ -83,6 +83,14 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="media\audio\" />
+    <Folder Include="media\font\iransans\" />
+    <Folder Include="media\img\" />
+    <Folder Include="media\scripts\" />
+    <Folder Include="media\style\" />
+    <Folder Include="media\video\" />
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
