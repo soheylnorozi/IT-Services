@@ -141,10 +141,8 @@ body {
 }
 
 .top-logo{
-    width: auto;
-    height: auto;
-    padding-right:15;
-    padding-top: 15
+ align-content:center;
+
 
 }
 </style >
