@@ -40,3 +40,44 @@ c:\users\fps\source\repos\EmServices\EmServices\obj\Debug\EmServices.csprojResol
 c:\users\fps\source\repos\EmServices\EmServices\obj\Debug\EmServices.csproj.CoreCompileInputs.cache
 c:\users\fps\source\repos\EmServices\EmServices\obj\Debug\EmServices.dll
 c:\users\fps\source\repos\EmServices\EmServices\obj\Debug\EmServices.pdb
+C:\Users\Mah Sa\Documents\GitHub\IT-Services\EmServices\EmServices\bin\System.Web.Mvc.xml
+C:\Users\Mah Sa\Documents\GitHub\IT-Services\EmServices\EmServices\bin\ApplicationInsights.config
+C:\Users\Mah Sa\Documents\GitHub\IT-Services\EmServices\EmServices\bin\EmServices.dll
+C:\Users\Mah Sa\Documents\GitHub\IT-Services\EmServices\EmServices\bin\EmServices.pdb
+C:\Users\Mah Sa\Documents\GitHub\IT-Services\EmServices\EmServices\bin\Antlr3.Runtime.dll
+C:\Users\Mah Sa\Documents\GitHub\IT-Services\EmServices\EmServices\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mah Sa\Documents\GitHub\IT-Services\EmServices\EmServices\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mah Sa\Documents\GitHub\IT-Services\EmServices\EmServices\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mah Sa\Documents\GitHub\IT-Services\EmServices\EmServices\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mah Sa\Documents\GitHub\IT-Services\EmServices\EmServices\bin\Microsoft.AI.Web.dll
+C:\Users\Mah Sa\Documents\GitHub\IT-Services\EmServices\EmServices\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mah Sa\Documents\GitHub\IT-Services\EmServices\EmServices\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mah Sa\Documents\GitHub\IT-Services\EmServices\EmServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mah Sa\Documents\GitHub\IT-Services\EmServices\EmServices\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mah Sa\Documents\GitHub\IT-Services\EmServices\EmServices\bin\Newtonsoft.Json.dll
+C:\Users\Mah Sa\Documents\GitHub\IT-Services\EmServices\EmServices\bin\System.Web.Helpers.dll
+C:\Users\Mah Sa\Documents\GitHub\IT-Services\EmServices\EmServices\bin\System.Web.Mvc.dll
+C:\Users\Mah Sa\Documents\GitHub\IT-Services\EmServices\EmServices\bin\System.Web.Optimization.dll
+C:\Users\Mah Sa\Documents\GitHub\IT-Services\EmServices\EmServices\bin\System.Web.Razor.dll
+C:\Users\Mah Sa\Documents\GitHub\IT-Services\EmServices\EmServices\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mah Sa\Documents\GitHub\IT-Services\EmServices\EmServices\bin\System.Web.WebPages.dll
+C:\Users\Mah Sa\Documents\GitHub\IT-Services\EmServices\EmServices\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mah Sa\Documents\GitHub\IT-Services\EmServices\EmServices\bin\WebGrease.dll
+C:\Users\Mah Sa\Documents\GitHub\IT-Services\EmServices\EmServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mah Sa\Documents\GitHub\IT-Services\EmServices\EmServices\bin\System.Web.Helpers.xml
+C:\Users\Mah Sa\Documents\GitHub\IT-Services\EmServices\EmServices\bin\System.Web.Optimization.xml
+C:\Users\Mah Sa\Documents\GitHub\IT-Services\EmServices\EmServices\bin\System.Web.Razor.xml
+C:\Users\Mah Sa\Documents\GitHub\IT-Services\EmServices\EmServices\bin\System.Web.WebPages.xml
+C:\Users\Mah Sa\Documents\GitHub\IT-Services\EmServices\EmServices\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mah Sa\Documents\GitHub\IT-Services\EmServices\EmServices\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mah Sa\Documents\GitHub\IT-Services\EmServices\EmServices\bin\Antlr3.Runtime.pdb
+C:\Users\Mah Sa\Documents\GitHub\IT-Services\EmServices\EmServices\bin\Newtonsoft.Json.xml
+C:\Users\Mah Sa\Documents\GitHub\IT-Services\EmServices\EmServices\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mah Sa\Documents\GitHub\IT-Services\EmServices\EmServices\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mah Sa\Documents\GitHub\IT-Services\EmServices\EmServices\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mah Sa\Documents\GitHub\IT-Services\EmServices\EmServices\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mah Sa\Documents\GitHub\IT-Services\EmServices\EmServices\bin\Microsoft.AI.Web.xml
+C:\Users\Mah Sa\Documents\GitHub\IT-Services\EmServices\EmServices\obj\Debug\EmServices.csprojResolveAssemblyReference.cache
+C:\Users\Mah Sa\Documents\GitHub\IT-Services\EmServices\EmServices\obj\Debug\EmServices.dll
+C:\Users\Mah Sa\Documents\GitHub\IT-Services\EmServices\EmServices\obj\Debug\EmServices.pdb
+C:\Users\Mah Sa\Documents\GitHub\IT-Services\EmServices\EmServices\bin\EmServices.dll.config
