@@ -1,59 +1,43 @@
-<style >
+
 /**************
     Fonts
 ***************/
-
 @font-face {
     font-family: 'isans';
     src: url('../font/iransans/isans_600.eot');
-    src: url('../font/iransans/isans_600.eot?#iefix') format('eot'),
-    url('../font/iransans/isans_600.woff2') format('woff2'),
-    url('../font/iransans/isans_600.woff') format('woff'),
-    url('../font/iransans/isans_600.ttf') format('ttf');
+    src: url('../font/iransans/isans_600.eot?#iefix') format('eot'), url('../font/iransans/isans_600.woff2') format('woff2'), url('../font/iransans/isans_600.woff') format('woff'), url('../font/iransans/isans_600.ttf') format('ttf');
     font-weight: 600;
 }
 
 @font-face {
     font-family: 'isans';
     src: url('../font/iransans/isans_500.eot');
-    src: url('../font/iransans/isans_500.eot?#iefix') format('eot'),
-    url('../font/iransans/isans_500.woff2') format('woff2'),
-    url('../font/iransans/isans_500.woff') format('woff'),
-    url('../font/iransans/isans_500.ttf') format('ttf');
+    src: url('../font/iransans/isans_500.eot?#iefix') format('eot'), url('../font/iransans/isans_500.woff2') format('woff2'), url('../font/iransans/isans_500.woff') format('woff'), url('../font/iransans/isans_500.ttf') format('ttf');
     font-weight: 500;
 }
 
 @font-face {
     font-family: 'isans';
     src: url('../font/iransans/isans_400.eot');
-    src: url('../font/iransans/isans_400.eot?#iefix') format('eot'),
-    url('../font/iransans/isans_400.woff2') format('woff2'),
-    url('../font/iransans/isans_400.woff') format('woff'),
-    url('../font/iransans/isans_400.ttf') format('ttf');
+    src: url('../font/iransans/isans_400.eot?#iefix') format('eot'), url('../font/iransans/isans_400.woff2') format('woff2'), url('../font/iransans/isans_400.woff') format('woff'), url('../font/iransans/isans_400.ttf') format('ttf');
     font-weight: 400;
 }
 
 @font-face {
     font-family: 'isans';
     src: url('../font/iransans/isans_300.eot');
-    src: url('../font/iransans/isans_300.eot?#iefix') format('eot'),
-    url('../font/iransans/isans_300.woff2') format('woff2'),
-    url('../font/iransans/isans_300.woff') format('woff'),
-    url('../font/iransans/isans_300.ttf') format('ttf');
+    src: url('../font/iransans/isans_300.eot?#iefix') format('eot'), url('../font/iransans/isans_300.woff2') format('woff2'), url('../font/iransans/isans_300.woff') format('woff'), url('../font/iransans/isans_300.ttf') format('ttf');
     font-weight: 300;
 }
 
 @font-face {
     font-family: 'isans';
     src: url('../font/iransans/isans_200.eot');
-    src: url('../font/iransans/isans_200.eot?#iefix') format('eot'),
-    url('../font/iransans/isans_200.woff2') format('woff2'),
-    url('../font/iransans/isans_200.woff') format('woff'),
-    url('../font/iransans/isans_200.ttf') format('ttf');
+    src: url('../font/iransans/isans_200.eot?#iefix') format('eot'), url('../font/iransans/isans_200.woff2') format('woff2'), url('../font/iransans/isans_200.woff') format('woff'), url('../font/iransans/isans_200.ttf') format('ttf');
     font-weight: 200;
 }
 
-h1,h2,h3,h4,h5,h6,p,span,strong,footer,.memo,td,div,a,.button {
+h1, h2, h3, h4, h5, h6, p, span, strong, footer, .memo, td, div, a, .button {
     font-family: isans !important;
 }
 /**************
@@ -76,31 +60,32 @@ h1,h2,h3,h4,h5,h6,p,span,strong,footer,.memo,td,div,a,.button {
     direction: rtl;
     text-align: center;
     background-color: black;
-    background-color: hsla(9, 100%, 64%, 0.2);
+    background-color: hsl(219, 100%, 95%);
     border: 5px;
     color: black;
     border-color: #ff6347;
     left: 0;
     top: 0;
     width: 100%;
-    position:sticky;
     margin-top: 1;
-    line-height: 1.9
+    line-height: 1.9;
+    padding: 20px;
 }
 
 .footer {
     direction: rtl;
     text-align: center;
     background-color: black;
-    background-color: hsla(9, 100%, 64%, 0.2);
+    background-color: #333;
     border: 5px;
-    color: black;
-    border-color: #ff6347;
+    color: white;
+    border-color: #202020;
     position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
-
+    font-size: 16px;
+    padding: 10px;
 }
 
 h1 {
@@ -109,7 +94,7 @@ h1 {
 }
 
 body {
-    /*background-image: url('./media/image/background.png');*/
+    /* background-image: url('./media/image/background.png'); */
     /*background-color: lightblue;*?
 }
 
@@ -121,46 +106,118 @@ body {
         border:0px solid  #666666;
         border-spacing:0px;
         /*cellspacing:poor IE support for  this*/
-        /* border-collapse:separate;*/
-    }
-    .divRow
-    {
-       display:table-row;
-       width:auto;
-       margin-bottom:
-    }
+    /* border-collapse:separate;*/
+    background-color: whitesmoke;
+}
 
-   .divCell
-    {
-        float:right;/*fix for  buggy browsers*/
-        display:table-column;
-        width:50%;
-       /* background-color:#ccc;*/
-    }
-   .divCell-full
-    {
-        float:right;/*fix for  buggy browsers*/
-        display:table-column;
-        width:100%;
-       /* background-color:#ccc;*/
-    }
+.divRow {
+    float: right;
+    display: block;
+    width: 100%;
+}
+
+.divCell, .divcell-full {
+    z-index: 999;
+    float: right; /*fix for  buggy browsers*/
+    display: block;
+    width: calc(50% - 20px);
+    background-color: white;
+    border-radius: 10px;
+    padding: 20px;
+    box-sizing: border-box;
+    margin: 10px;
+    min-height: 270px;
+    -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+    -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+    -moz-transition: box-shadow 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+    -o-transition: box-shadow 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+    -webkit-transition: box-shadow 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+    transition: box-shadow 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+}
+
+.divCell-full {
+    float: right; /*fix for  buggy browsers*/
+    display: table-column;
+    width: calc(100% - 20px);
+    /* background-color:#ccc;*/
+}
+
 .button {
-    background-color: #4CAF50;
+    background-color: #00496c;
     border: none;
     color: white;
-    padding: 20px;
+    padding: 12px 20px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
     margin: 5px 5px;
+    border-radius: 15px;
+    -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+    -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+    cursor: pointer;
+    transition: 0.3s;
 }
 
-.top-logo{
+.top-logo {
     width: auto;
     height: auto;
-    padding-right:15;
+    padding-right: 15;
     padding-top: 15
-
 }
-</style >
+
+.button:hover {
+    background-color: #00ff95;
+    color: #333;
+    -moz-box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+    -webkit-box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+h3 {
+    font-size: 26px;
+    color: #333;
+}
+
+.main-girid {
+    margin-bottom: 90px;
+    float: right;
+    width: 100%;
+}
+
+.button:hover {
+    background-color: #00c4ff;
+    color: #333;
+    -moz-box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+    -webkit-box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+h3 {
+    font-size: 26px;
+    color: #333;
+}
+
+header .main-girid {
+    margin-bottom: -90px;
+}
+
+header .divcell {
+    background-color: transparent;
+    box-shadow: none !important;
+}
+
+.divCell > h3 {
+    margin-top: 0;
+}
+
+.divCell:hover, .divcell-full:hover {
+    -moz-box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+    -webkit-box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+
+
